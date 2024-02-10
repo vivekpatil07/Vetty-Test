@@ -17,16 +17,17 @@ Navigate to the project directory in your terminal and create a virtual environm
      -- python3 -m venv venv
 
      Activate the virtual environment:
+   
      On Windows:
      -- venv\Scripts\activate
      On macOS and Linux:
      -- source venv/bin/activate
 
-3. Install requirements.txt using pip:
+4. Install requirements.txt using pip:
 Make sure you're in the project directory and your virtual environment is activated. Then, install the requirements using pip:
 -- pip install -r requirements.txt
    
-4. Run app.py with Python 3:
+5. Run app.py with Python 3:
 Once the requirements are installed, you can run the Flask application using Python 3:
 -- python app.py
 
