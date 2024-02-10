@@ -9,9 +9,11 @@ To run this project, the user should install Python 3, and optionally venv for a
 # Steps to Run
 
 1. Download the project from GitHub and extract the zip folder:
+   
 You can do this manually by downloading the zip file from GitHub and extracting it to your desired location on your local machine.
 
-2. Optionally, open the project in a virtual environment with venv:
+3. Optionally, open the project in a virtual environment with venv:
+   
 Navigate to the project directory in your terminal and create a virtual environment:
 
      -- python3 -m venv venv
@@ -24,11 +26,13 @@ Navigate to the project directory in your terminal and create a virtual environm
      On macOS and Linux:
      -- source venv/bin/activate
 
-4. Install requirements.txt using pip:
+5. Install requirements.txt using pip:
+   
 Make sure you're in the project directory and your virtual environment is activated. Then, install the requirements using pip:
 -- pip install -r requirements.txt
    
-5. Run app.py with Python 3:
+7. Run app.py with Python 3:
+
 Once the requirements are installed, you can run the Flask application using Python 3:
 -- python app.py
 
