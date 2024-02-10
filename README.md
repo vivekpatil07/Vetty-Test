@@ -20,6 +20,7 @@ Navigate to the project directory in your terminal and create a virtual environm
    
      On Windows:
      -- venv\Scripts\activate
+   
      On macOS and Linux:
      -- source venv/bin/activate
 
