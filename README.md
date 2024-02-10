@@ -14,15 +14,13 @@ You can do this manually by downloading the zip file from GitHub and extracting 
 2. Optionally, open the project in a virtual environment with venv:
 Navigate to the project directory in your terminal and create a virtual environment:
 
--- python3 -m venv venv
+     -- python3 -m venv venv
 
-Activate the virtual environment:
-
-On Windows:
--- venv\Scripts\activate
-
-On macOS and Linux:
--- source venv/bin/activate
+     Activate the virtual environment:
+     On Windows:
+     -- venv\Scripts\activate
+     On macOS and Linux:
+     -- source venv/bin/activate
 
 3. Install requirements.txt using pip:
 Make sure you're in the project directory and your virtual environment is activated. Then, install the requirements using pip:
